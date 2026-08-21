@@ -19,8 +19,3 @@ I'm a technology student and enthusiast focused on **Automation**, **Python**, a
 
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NataliaBurgarelli&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataliaBurgarelli&layout=compact&theme=tokyonight" alt="Top Langs" height="150"/>
-</p>
