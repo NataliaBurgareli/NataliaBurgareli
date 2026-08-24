@@ -14,7 +14,7 @@ I'm a technology student and enthusiast focused on **Automation**, **Python**, a
 
 ### 📌 What I'm Currently Working On & Learning
 - 🔭 Building automated tools with **Python + Playwright** for data validation and operational reporting
-- 📚 Deepening my knowledge in software engineering principles, algorithms, and QA/testing
+- 📚 Deepening my knowledge in software engineering principles, algorithms, quality and altomation
 - ⚡ Focusing on clean code practices and scalable automation
 
 
