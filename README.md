@@ -6,10 +6,12 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png
+
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 
@@ -21,10 +23,10 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 
 ### 📌 What I'm Currently Working On & Learning
 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png
+https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png
 
 * ⌛ **Learning automation** with Playwright and Selenium.
 * 🗄️ **Studying databases** with PostgreSQL and MySQL.
