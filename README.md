@@ -14,16 +14,11 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 
 ---
 
+
 ### 📌 What I'm Currently Working On & Learning
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
 
-* ⌛ **Learning automation** with Playwright and Selenium.
-* ☕ **Studying backend development** with Spring Boot & Java.
-* 🗄️ **Studying databases** with PostgreSQL and MySQL.
-* 🌐 **Studying English** to improve global communication and tech fluency.
-* 🎓 **Deepening my knowledge** in software engineering principles, quality, and algorithms.
-* ⚡ **Focusing on clean code practices** and scalable automation.
 
 * ⌛ **Learning automation** with Playwright and Selenium.
 * ☕ **Studying backend development** with Spring Boot & Java.
@@ -32,12 +27,6 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 * 🎓 **Deepening my knowledge** in software engineering principles, quality, and algorithms.
 * ⚡ **Focusing on clean code practices** and scalable automation.
 
-* ⌛ **Learning automation** with Playwright and Selenium.
-* ☕ **Studying backend development** with Spring Boot & Java.
-* 🗄️ **Studying databases** with PostgreSQL and MySQL.
-* 🌐 **Studying English** to improve global communication and tech fluency.
-* 🎓 **Deepening my knowledge** in software engineering principles, quality, and algorithms.
-* ⚡ **Focusing on clean code practices** and scalable automation.
   
 ---
 
