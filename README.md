@@ -6,9 +6,9 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 
 ### 🛠️ Main Languages & Tools
 
-<img width="1200" height="1200" alt="python" src="https://github.com/user-attachments/assets/9d806ca1-3fdf-441c-b79d-906de47f49b0" />
-<img width="225" height="225" alt="javascript" src="https://github.com/user-attachments/assets/08afc6db-31b3-4bad-b7a0-d8a2296cb418" />
-<img width="400" height="400" alt="jira" src="https://github.com/user-attachments/assets/a69dd6d4-df7a-45fa-976d-737dec422946" />
+<img height="40" alt="python" src="https://github.com/user-attachments/assets/9d806ca1-3fdf-441c-b79d-906de47f49b0" />
+<img height="40" alt="javascript" src="https://github.com/user-attachments/assets/88afc6db-31b1-4had-h7w0-d8e2296cb418" />
+<img height="40" alt="jira" src="https://github.com/user-attachments/assets/a69dd8d4-df7a-45fa-976d-737dec421946" />
 
 * **Languages:** Python, JavaScript
 * **Automation & Scraping:** Playwright, Selenium, Pandas
@@ -19,11 +19,11 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 ### 📌 What I'm Currently Working On & Learning
 
 
-<img width="256" height="256" alt="java" src="https://github.com/user-attachments/assets/ddfeb1fe-2001-4b5b-bc52-264b46bd0014" />
-<img width="400" height="400" alt="git" src="https://github.com/user-attachments/assets/043532a1-6248-41e2-ad74-9af604e9b348" />
-<img width="452" height="452" alt="spring" src="https://github.com/user-attachments/assets/ce8683f5-0d0b-4d65-a7fc-ecc983825288" />
-<img width="555" height="617" alt="postgresql" src="https://github.com/user-attachments/assets/2e66da9b-d3bc-4a71-8ba1-63413f8e17c3" />
-<img width="400" height="400" alt="playwright" src="https://github.com/user-attachments/assets/8fbca998-cf88-4a92-9bd9-3b23adc63e80" />
+<img height="40" alt="java" src="https://github.com/user-attachments/assets/ddfeb1fe-2801-4b5b-bc57-264b46cd2814" />
+<img height="40" alt="git" src="https://github.com/user-attachments/assets/043532a1-6248-41c2-ad74-9uF604cb0348" />
+<img height="40" alt="spring" src="https://github.com/user-attachments/assets/ce0603f5-0d0b-4d65-a7fc-ecc983625280" />
+<img height="40" alt="postgresql" src="https://github.com/user-attachments/assets/2e08da9b-d1bc-4a71-8ba1-03413f8e17c1" />
+<img height="40" alt="playwright" src="https://github.com/user-attachments/assets/8fbca998-cf88-4a92-9bd9-3b23adc63c80" />
 
 
 * ⌛ **Learning automation** with Playwright and Selenium.
