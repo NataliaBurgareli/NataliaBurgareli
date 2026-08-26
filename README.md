@@ -15,7 +15,6 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 
 * **Languages:** Python, JavaScript, SQL
 * **Automation & Scraping:** Playwright, Selenium, Pandas
-* **Version Control:** Git, GitHub
 * **Other Tools:** VS Code, Data Analysis & Excel, Jira
 
 ---
