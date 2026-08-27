@@ -16,7 +16,7 @@ I'm a technology student and enthusiast focused on Automation, Python, and softw
 ---
 
 
-###**Parallel Studies:**
+### Others Studies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring--Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
